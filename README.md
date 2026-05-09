@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi, I'm Darren 👋
 
-<!--
-**dlevreault/dlevreault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science master's student with experience in machine learning, analytics, QA testing, and predictive modeling.
 
-Here are some ideas to get you started:
+Currently focused on:
+- Statistical Analysis
+- Machine Learning
+- Python
+- SQL/SAS
+- R
+- Data Analytics
+- AI/Optimization
+- Model Evaluation
+- Feature Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+
+- Python
+- Pandas
+- Scikit-learn
+- R/RStudio
+- SQL
+- Jupyter Notebook
+- SAS
+- Git/GitHub
+
+## Current Projects
+
+- Loan Default Prediction
+- Customer Attrition Modeling
+- Clustering & Recommendation Systems
+- Data Visualization Projects
+- Data Audits
+
+## Currently Learning
+
+- Advanced Machine Learning
+- Cloud Computing
+- Data Mining
+- Data Engineering concepts
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/darren-levreault
